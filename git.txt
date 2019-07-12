@@ -1,0 +1,7 @@
+https://github.com/davidchou1986/test
+git version
+git init
+git status
+
+git remote add origin
+git clone
