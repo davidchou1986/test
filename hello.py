@@ -1,4 +1,3 @@
-print('hello python & git windows 5555')
+print('hello python & git windows 666')
 
 
-http://wms-cloud-api.wpgholdings.com/WmsCloudApi
